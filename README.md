@@ -1,4 +1,4 @@
-# GenAI-Blog-generator
+# GenAI-Blog-Project
 
 Below is the complete documentation for building a generative AI blog generation application on AWS, structured to guide you through the entire process from setup to testing. 
 
